@@ -9,4 +9,4 @@
 
 #### **Actividad Obligatoria Unidad 4 - Act. Sistema de Archivo**
 
-##### **Fecha de Entrega:** 02/11/2025]
+##### **Fecha de Entrega:** 02/11/2025
