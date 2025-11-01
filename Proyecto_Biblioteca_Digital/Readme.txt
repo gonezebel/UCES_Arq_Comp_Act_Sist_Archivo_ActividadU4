@@ -17,7 +17,7 @@ II_Estructura de directorios (raíz: Proyecto_Biblioteca_Digital)
   - 01_graficos/
   - 02_resultados/
 - 05_presentaciones/
-  - 00_congreso_2025/
+  - 00_congresos/
 - 06_documentacion/
   - 00_diagramas/
   - 01_notas/
@@ -72,8 +72,8 @@ VI_Ubicación y renombres aplicados
 - resul_analisisb.xlsx → 04_analisis/02_resultados/202510_analisis_b.xlsx
 - grafico.png → 04_analisis/01_graficos/202510_resultados.png
 - consulta_exp001.sql → 04_analisis/00_consultas/exp_001.sql
-- presentacion_congresov1.pptx → 05_presentaciones/00_congreso_2025/202511_congreso_xxx_v1.pptx
-- presentacion_congreso_v2.pptx → 05_presentaciones/00_congreso_2025/202511_congreso_xxx_v2.pptx
+- presentacion_congresov1.pptx → 05_presentaciones/00_congresos/202511_congreso_xxx_v1.pptx
+- presentacion_congreso_v2.pptx → 05_presentaciones/00_congresos/202511_congreso_xxx_v2.pptx
 - script_procesamiento.py → 02_etl/procesamiento_v1.py
 - config_analizador.ini → 00_config/config_analizador.ini
 - articulo_referencia_metodologia.pdf → 07_referencias/00_articulos/referencia_metodologia.pdf
